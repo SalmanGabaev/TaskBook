@@ -1,0 +1,346 @@
+[2019-10-07 07:24:59] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:26:48] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:26:48] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:32] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:34] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:35] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:35] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:36] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:37] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:28:37] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:29:27] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:30:26] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:32:20] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:33:50] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:33:50] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\public\index.php | Строка: 8
+=================
+[2019-10-07 07:47:00] Текст ошибки: Контроллер App\Controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-07 07:48:07] Текст ошибки: Контроллер App\Controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-07 07:48:40] Текст ошибки: Контроллер App\Controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-07 07:48:42] Текст ошибки: Контроллер App\Controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-07 07:49:40] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-07 07:49:55] Текст ошибки: Контроллер App\Controllers\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 41
+=================
+[2019-10-08 08:42:08] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/Task/index.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-08 21:19:40] Текст ошибки: Контроллер App\Controllers\AddController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-08 21:22:30] Текст ошибки: Контроллер App\Controllers\AddController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-08 21:23:21] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:23:29] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:23:52] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:24:13] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:25:10] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:27:21] Текст ошибки: Too few arguments to function App\Controllers\TaskController::storeAction(), 0 passed in D:\OSPanel\domains\book-task.loc\core\Router.php on line 37 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\TaskController.php | Строка: 25
+=================
+[2019-10-08 21:28:31] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/Task/store.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-08 21:36:36] Текст ошибки: Контроллер App\Controllers\UserController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-08 22:26:16] Текст ошибки: Метод App\Controllers\UserController::signupAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-08 22:31:13] Текст ошибки: Call to undefined method App\Controllers\UserController::getView() | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 38
+=================
+[2019-10-08 23:17:29] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:17:51] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:18:03] Текст ошибки: Контроллер App\Controllers\SignupController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-08 23:18:30] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:22:24] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:22:32] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:23:09] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:23:36] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:23:41] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:23:51] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:25:19] Текст ошибки: Контроллер App\Controllers\SignupController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-08 23:26:34] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-08 23:34:44] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 00:18:06] Текст ошибки: Call to undefined function App\Controllers\redirect() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\UserController.php | Строка: 24
+=================
+[2019-10-09 00:18:46] Текст ошибки: Call to undefined function App\Controllers\http_redirect() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\UserController.php | Строка: 24
+=================
+[2019-10-09 00:21:52] Текст ошибки: Call to undefined function App\Controllers\http_redirect() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\UserController.php | Строка: 24
+=================
+[2019-10-09 00:42:21] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'email' doesn't have a default value | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2019-10-09 00:50:55] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'salmangabaev@gmail.com' for key 'email' | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2019-10-09 00:58:48] Текст ошибки: Expected array, string given. | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-10-09 00:58:59] Текст ошибки: Expected array, string given. | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-10-09 00:59:00] Текст ошибки: Expected array, string given. | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-10-09 01:28:53] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:29:24] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:31:31] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:32:25] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:32:29] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:32:30] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 01:55:57] Текст ошибки: Too few arguments to function System\Base\Model::load(), 0 passed in D:\OSPanel\domains\book-task.loc\app\controllers\UserController.php on line 40 and exactly 1 expected | Файл: D:\OSPanel\domains\book-task.loc\core\base\Model.php | Строка: 24
+=================
+[2019-10-09 02:08:59] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 02:28:49] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/Task/store.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 07:15:28] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 07:17:08] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:04] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:07] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:08] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:08] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:08] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:08] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:09] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:19:09] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:31:35] Текст ошибки: Argument 1 passed to App\Controllers\MainController::__construct() must be an instance of Psr\Container\ContainerInterface, null given, called in D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\CallableResolver.php on line 71 | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\MainController.php | Строка: 13
+=================
+[2019-10-09 07:33:35] Текст ошибки: Return value of Slim\Handlers\Strategies\RequestResponse::__invoke() must implement interface Psr\Http\Message\ResponseInterface, null returned | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php | Строка: 42
+=================
+[2019-10-09 07:33:37] Текст ошибки: Return value of Slim\Handlers\Strategies\RequestResponse::__invoke() must implement interface Psr\Http\Message\ResponseInterface, null returned | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Handlers\Strategies\RequestResponse.php | Строка: 42
+=================
+[2019-10-09 07:37:29] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views//.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 07:41:10] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views//.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 07:48:03] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:48:07] Текст ошибки: Not found. | Файл: D:\OSPanel\domains\book-task.loc\vendor\slim\slim\Slim\Middleware\RoutingMiddleware.php | Строка: 91
+=================
+[2019-10-09 07:51:39] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/Task/store.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 08:06:40] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/Task/store.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 12:39:53] Текст ошибки: Контроллер App\Controllers\admin\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-09 12:40:57] Текст ошибки: Контроллер App\Controllers\admin\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-09 12:40:57] Текст ошибки: Контроллер App\Controllers\admin\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-09 12:40:59] Текст ошибки: Контроллер App\Controllers\admin\MainController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-09 12:54:32] Текст ошибки: Call to undefined method App\Models\User::isAdmin() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 21
+=================
+[2019-10-09 15:11:05] Текст ошибки: Class 'R' not found | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\MainController.php | Строка: 15
+=================
+[2019-10-09 15:12:29] Текст ошибки: Class 'R' not found | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\MainController.php | Строка: 16
+=================
+[2019-10-09 15:13:11] Текст ошибки: Call to a member function find() on null | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 941
+=================
+[2019-10-09 15:13:36] Текст ошибки: Class 'R' not found | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\MainController.php | Строка: 16
+=================
+[2019-10-09 15:16:17] Текст ошибки: Call to undefined method App\Models\User::isAdmin() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 21
+=================
+[2019-10-09 15:16:39] Текст ошибки: Call to undefined method App\Models\User::isAdmin() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 21
+=================
+[2019-10-09 15:34:45] Текст ошибки: syntax error, unexpected ')' | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\UserController.php | Строка: 46
+=================
+[2019-10-09 15:46:31] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:14:45] Текст ошибки: Контроллер App\Controllers\TaskController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-09 19:15:27] Текст ошибки: Метод App\Controllers\admin\TaskController::updateAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-09 19:17:09] Текст ошибки: Метод App\Controllers\admin\TaskController::executeAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-09 19:17:57] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/admin\Task/execute.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 19:18:20] Текст ошибки: На найден вид D:\OSPanel\domains\book-task.loc/app/views/admin\Task/execute.php | Файл: D:\OSPanel\domains\book-task.loc\core\base\View.php | Строка: 38
+=================
+[2019-10-09 19:19:49] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:20:11] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:20:13] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:20:18] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:20:22] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:23:17] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:23:22] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:25:11] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 19:29:18] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 20:01:45] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 20:05:16] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-09 20:05:43] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:13:50] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:15:34] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:15:57] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:16:00] Текст ошибки: Контроллер App\Controllers\TaskController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 04:16:41] Текст ошибки: Контроллер App\Controllers\TaskController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 04:16:44] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:16:52] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 04:16:56] Текст ошибки: Метод App\Controllers\admin\TaskController::editAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-10 04:17:17] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 08:50:16] Текст ошибки: Метод App\Controllers\admin\TaskController::editjAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-10 09:01:55] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 09:05:17] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 09:14:30] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 09:15:05] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 09:53:31] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 09:56:35] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 43
+=================
+[2019-10-10 09:57:08] Текст ошибки: Метод App\Controllers\admin\TaskController::indexAction не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 40
+=================
+[2019-10-10 09:57:46] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 09:57:53] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 10:14:31] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 10:14:35] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 46
+=================
+[2019-10-10 10:16:05] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 44
+=================
+[2019-10-10 10:16:07] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 44
+=================
+[2019-10-10 10:23:01] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'task-book.user' doesn't exist | Файл: D:\OSPanel\domains\book-task.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2019-10-10 10:23:35] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 44
+=================
+[2019-10-10 10:25:51] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 44
+=================
+[2019-10-10 10:26:19] Текст ошибки: Контроллер App\Controllers\admin\EditController не найден | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 44
+=================
+[2019-10-10 10:43:06] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 10:44:55] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 10:46:31] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 10:46:42] Текст ошибки: Call to undefined method App\Models\Task::checkUnique() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\TaskController.php | Строка: 31
+=================
+[2019-10-10 10:47:11] Текст ошибки: Call to undefined method App\Models\Task::update() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\TaskController.php | Строка: 35
+=================
+[2019-10-10 10:53:20] Текст ошибки: Call to undefined method App\Models\Task::update() | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\TaskController.php | Строка: 35
+=================
+[2019-10-10 11:00:24] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:05:03] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:05:33] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:11:53] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:12:36] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:12:39] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:12:41] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:12:44] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:14:22] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:14:42] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:16:14] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:16:16] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:16:25] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:18:49] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:21:05] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:24:23] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:24:23] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:25:39] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:25:51] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:26:08] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 11:54:49] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:54:57] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 11:58:07] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\app\controllers\admin\AppController.php | Строка: 35
+=================
+[2019-10-10 12:06:22] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 12:07:54] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 12:08:46] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
+[2019-10-10 12:09:16] Текст ошибки: Страница не найдена | Файл: D:\OSPanel\domains\book-task.loc\core\Router.php | Строка: 47
+=================
